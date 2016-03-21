@@ -1,0 +1,28 @@
+name: itscreams
+favicon: null
+layout_spectrum: 0.5185211941134185
+typography_spectrum: 0.8065607286989689
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.22242226055823267
+  lightness: 0.3122363518923521
+  saturation: 0.4841100894846022
+  rhythmicContrast: 0.4150559783447534
+purpose: []
